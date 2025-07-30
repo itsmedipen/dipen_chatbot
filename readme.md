@@ -81,9 +81,6 @@ text-chatbot/
 ├── config.toml              
 ├── .streamlit/            
 │   └── config.toml          
-└── docs/                    
-    ├── detailed_doc.md      
-    └── detailed_doc.docx
 
 ## Security & Best Practices
 
