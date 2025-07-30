@@ -21,7 +21,7 @@ def main():
     st.set_page_config(page_title='Dipen AI chatbot 🧑')# title of the page
     
     st.header('Dipen AI Assistant 🧑')# header of the page
-    questions =st.text_input('Ask a question about your documents',placeholder='Ask anything')
+    questions =st.text_input('Ask any questions',placeholder='Ask anything')
     proces_click =st.button('Search',"Primary Button", type="primary")
 
     if questions and proces_click:
